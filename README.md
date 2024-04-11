@@ -41,6 +41,6 @@ To set up this project locally, follow these steps:
 
 ## Backend Part of this project
 
-Github Repo: 
+Github Repo: https://github.com/akashbirthal23/cv-shortlister-backend
 
-Deployed Link: 
+Deployed Link: https://parse.cvninja.studio/ 
